@@ -11,12 +11,16 @@
   "author": "Sanjai",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.7.9",
     "bcrypt": "^5.1.1",
+    "cache": "^3.0.0",
+    "connect-timeout": "^1.9.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.5",
+    "node-cache": "^5.1.2",
     "nodemon": "^3.1.9"
   }
 }
